@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @Oliver-Provazník
-- 👀 I am interested in getting acquainted with Git Hub
-- 🌱 I’m currently learning Laravel and PHP
-- 💞️ Frontend
-- 📫 How to reach me 
 -           Gmail:     oliver.provaznik@gmail.com 
 -           Facebook:  https://www.facebook.com/oliver.provaznik/
 -           Twitter:   https://twitter.com/OliverProvaznk
